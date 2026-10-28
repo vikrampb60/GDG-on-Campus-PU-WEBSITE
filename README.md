@@ -16,6 +16,16 @@ A responsive, Google-inspired frontend website concept for **Google Developer Gr
 
 The website uses a clean white canvas, Google-inspired blue/red/yellow/green accents, Jaipur-inspired Hawa Mahal artwork, Poornima University imagery, and a custom Googlebot-inspired visual. The design aims to feel welcoming, creative, and community-focused while keeping content readable.
 
+### Intro animation
+
+<p align="center">
+  <img src="Git%20SS/starting-animation-1.png" alt="Intro animation screen one" width="700" />
+</p>
+<p align="center">
+  <img src="Git%20SS/starting-animation-2.png" alt="Intro animation screen two" width="700" />
+</p>
+
+
 ### Home
 
 <p align="center">
@@ -65,15 +75,6 @@ The website uses a clean white canvas, Google-inspired blue/red/yellow/green acc
 </p>
 <p align="center">
   <img src="Git%20SS/contact.png" alt="Contact page and demo form" width="900" />
-</p>
-
-### Intro animation
-
-<p align="center">
-  <img src="Git%20SS/starting-animation-1.png" alt="Intro animation screen one" width="700" />
-</p>
-<p align="center">
-  <img src="Git%20SS/starting-animation-2.png" alt="Intro animation screen two" width="700" />
 </p>
 
 ---
