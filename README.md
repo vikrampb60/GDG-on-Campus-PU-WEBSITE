@@ -19,10 +19,10 @@ The website uses a clean white canvas, Google-inspired blue/red/yellow/green acc
 ### Intro animation
 
 <p align="center">
-  <img src="Git%20SS/starting-animation-1.png" alt="Intro animation screen one" width="700" />
+  <img src="Git%20SS/starting-animation-1.png" alt="Intro animation screen one" width="900" />
 </p>
 <p align="center">
-  <img src="Git%20SS/starting-animation-2.png" alt="Intro animation screen two" width="700" />
+  <img src="Git%20SS/starting-animation-2.png" alt="Intro animation screen two" width="900" />
 </p>
 
 
